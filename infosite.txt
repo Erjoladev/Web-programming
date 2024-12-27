@@ -1,0 +1,15 @@
+Database credentials:
+Username: root
+Password: 
+
+Admin credentials:
+Username: projet
+Password: xVKG2APDR0uM4qQ9wD
+
+Editor credentials:
+Username: editor
+Password: J#CMMNl9GvA!VJBVYgLC&Nfj
+
+Contributor credentials:
+Username: contributeur
+Password: sZeyFYeCuA%lkRpfkN5rhalx
